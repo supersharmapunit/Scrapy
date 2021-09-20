@@ -27,6 +27,7 @@ I may in the future attempt to analyze news articles for sentiment analysis, and
 ### Requirements
   #### node
   1.clone the project and install dependencies
+  
   npm module --> cheerio, puppeteer, node-cron, fs, path
   to install it type/copy in cmd or teminal
      ```npm init```
