@@ -35,3 +35,7 @@ I may in the future attempt to analyze news articles for sentiment analysis, and
   2.then in the same directory run
      ```node tradingview.js```
 
+
+https://user-images.githubusercontent.com/50194646/133975484-52165d9f-7468-4eb3-bbd9-1325dc60d7cb.mp4
+
+
