@@ -23,3 +23,14 @@ I may in the future attempt to analyze news articles for sentiment analysis, and
 - Websites create pitfalls to detect bots such as hidden tags that would only be visible to bots
 - How to schedule program through <mark> NODE-CRON </mark> so that it automates our task
   
+## Run it on your machine
+### Requirements
+  #### node
+  1.clone the project and install dependencies
+  npm module --> cheerio, puppeteer, node-cron, fs, path
+  to install it type/copy in cmd or teminal
+     ```npm init```
+
+  2.then in the same directory run
+     ```node tradingview.js```
+
