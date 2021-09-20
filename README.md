@@ -1,6 +1,6 @@
 # Scrapy(Stocks Scraper)
 
-This crawler uses puppeteer to tradingview.com, and collects information on stocks in various sectors including healthcare, technology, energy, and more. It collects information such as the rating, name, price, change in price, etc. of stocks and stores them locally in a xlsx file on an automated schedule (just after the markets close for the day).
+This crawler uses puppeteer to crawl tradingview.com, and collects information on stocks in various sectors including healthcare, technology, energy, and more. It collects information such as the rating, name, price, change in price, etc. of stocks and stores them locally in a xlsx file on an automated schedule (just after the markets close for the day).
 
 ## Motivation
 
